@@ -22,7 +22,7 @@
 // @author: see AUTHORS file
 #include <cmath>
 #include <ctime>
-
+#include <cinttypes>
 #include <xlnt/utils/timedelta.hpp>
 
 namespace xlnt {
